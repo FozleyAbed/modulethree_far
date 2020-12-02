@@ -11,7 +11,7 @@ h1 {
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: #f39c12;
 
 }
 
@@ -51,7 +51,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color:#85929e;
 }
 
 #beef {
@@ -65,7 +65,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color:#16a085;
 }
 
 #sushi {
@@ -78,8 +78,8 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
-	color: white;
+	background-color: #f7dc6f;
+	color: black;
 	padding: 5px;
 }
 
@@ -106,8 +106,8 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
-  color: #FFFFFF;
+  background-color: #40E0D0;
+  color: #40E0D0;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -119,11 +119,11 @@ section {
 }
 
 .nav-header {
-  background-color: #FFFFFF;
+  background-color:  #566573 ;
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color:  #566573 ;
   font-size: 1.5em;
 }
 
